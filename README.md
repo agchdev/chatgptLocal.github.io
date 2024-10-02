@@ -2,6 +2,8 @@
 
 Este proyecto te permite ejecutar una instancia de **ChatGPT localmente**, sin necesidad de instalaciones complejas ni dependencias adicionales. La interfaz de usuario está diseñada para simular la experiencia de **WhatsApp**, brindando un entorno familiar para interactuar con el modelo.
 
+**VISITALO AHORA MISMO (TIENES QUE ESPERAR A QUE CARGUE): [ChatGPT](https://agchdev.github.io/chatgptLocal.github.io/)
+
 ## 🚀 Descripción
 
 Este proyecto ejecuta **ChatGPT** en tu navegador local, con una interfaz estilo **WhatsApp**. No requiere la instalación de software adicional ni configuración avanzada. Todo el código y los recursos están empaquetados para que puedas ejecutar el chatbot de manera inmediata, directamente desde tu navegador.
